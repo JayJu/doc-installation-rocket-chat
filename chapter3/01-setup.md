@@ -15,7 +15,7 @@
 2. Docker for windows 설치
     * 사이트 접속
         * [Install Docker for Windows](https://docs.docker.com/docker-for-windows/install)
-    * Stable 버전 다운로드 및 설치
+    * Edge 버전 다운로드 및 설치
     * 재부팅
     
 3. Meteor 설치
