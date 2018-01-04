@@ -18,7 +18,14 @@
     * Edge 버전 다운로드 및 설치
     * 재부팅
     
-3. Meteor 설치
+3. nodejs 설치
+    * nodejs 다운로드 및 설치
+        * [https://nodejs.org/ko/](https://nodejs.org/ko/)
+    * windows build tools 설치
+    ``` 
+    npm install -g --production windows-build-tools
+    ```
+4. Meteor 설치
     * 7-zip 설치
         * [http://www.7-zip.org](http://www.7-zip.org)
     * chocolatey 설치
